@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <AssemblyName>Mastermind</AssemblyName>
+    <RootNamespace>Mastermind</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <ApplicationIcon>Bronplaatjes\mastermind.ico</ApplicationIcon>
+    <!-- Geen symbolen: het programma wordt openbaar verspreid en anders staan
+         de bronpaden van deze machine in elke foutmelding. Foutmeldingen tonen
+         daardoor wel de methode maar geen regelnummer; zet dit tijdelijk op
+         "embedded" zodra je een fout wilt natrekken. -->
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- De balletjes, de paaltjes en het geluidje gaan mee in het programma
+         zelf, zodat Mastermind.exe één los bestand blijft. Tekening\ is de
+         nieuwe tekening op 580 bij 560, Bronplaatjes\ de bitmaps van 1995. -->
+    <EmbeddedResource Include="Bronplaatjes\*.png" />
+    <EmbeddedResource Include="Tekening\*.png" />
+    <EmbeddedResource Include="Gerekend\*.png" />
+    <EmbeddedResource Include="Bronplaatjes\gevonden.wav" />
+    <EmbeddedResource Include="Bronplaatjes\mastermind.ico" />
+  </ItemGroup>
+
+</Project>

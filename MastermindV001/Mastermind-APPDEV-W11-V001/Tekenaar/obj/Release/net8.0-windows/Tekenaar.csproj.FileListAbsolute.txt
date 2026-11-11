@@ -1,0 +1,14 @@
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\bin\Release\net8.0-windows\Tekenaar.exe
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\bin\Release\net8.0-windows\Tekenaar.deps.json
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\bin\Release\net8.0-windows\Tekenaar.runtimeconfig.json
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\bin\Release\net8.0-windows\Tekenaar.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\bin\Release\net8.0-windows\Tekenaar.pdb
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.AssemblyInfoInputs.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.AssemblyInfo.cs
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.csproj.CoreCompileInputs.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\refint\Tekenaar.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.pdb
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\Tekenaar.genruntimeconfig.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\Tekenaar\obj\Release\net8.0-windows\ref\Tekenaar.dll

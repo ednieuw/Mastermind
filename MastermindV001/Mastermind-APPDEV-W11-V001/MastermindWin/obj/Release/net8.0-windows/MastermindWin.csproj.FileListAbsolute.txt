@@ -1,0 +1,12 @@
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\bin\Release\net8.0-windows\Mastermind.exe
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\bin\Release\net8.0-windows\Mastermind.deps.json
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\bin\Release\net8.0-windows\Mastermind.runtimeconfig.json
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\bin\Release\net8.0-windows\Mastermind.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\MastermindWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\MastermindWin.AssemblyInfoInputs.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\MastermindWin.AssemblyInfo.cs
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\MastermindWin.csproj.CoreCompileInputs.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\Mastermind.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\refint\Mastermind.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\MastermindWin.genruntimeconfig.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindWin\obj\Release\net8.0-windows\ref\Mastermind.dll

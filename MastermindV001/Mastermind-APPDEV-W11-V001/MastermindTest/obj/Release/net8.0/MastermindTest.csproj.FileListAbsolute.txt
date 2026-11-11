@@ -1,0 +1,14 @@
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\bin\Release\net8.0\MastermindTest.exe
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\bin\Release\net8.0\MastermindTest.deps.json
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\bin\Release\net8.0\MastermindTest.runtimeconfig.json
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\bin\Release\net8.0\MastermindTest.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\bin\Release\net8.0\MastermindTest.pdb
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.AssemblyInfoInputs.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.AssemblyInfo.cs
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.csproj.CoreCompileInputs.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\refint\MastermindTest.dll
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.pdb
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\MastermindTest.genruntimeconfig.cache
+C:\Users\ednie\Documents\Files\BLESerialAppDev\Mastermind\Mastermind-APPDEV-W11-V001\MastermindTest\obj\Release\net8.0\ref\MastermindTest.dll
